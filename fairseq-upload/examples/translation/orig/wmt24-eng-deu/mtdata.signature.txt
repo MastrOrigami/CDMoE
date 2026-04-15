@@ -1,0 +1,2 @@
+mtdata get -l deu-eng --train Statmt-europarl-10-deu-eng --compress -o <out-dir>
+mtdata version 0.4.2
