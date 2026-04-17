@@ -1,7 +1,3 @@
-# fairseq-upload (Anonymous Submission Package)
-
-This repository is the upload-ready code package for anonymous paper submission.
-All commands below are intended to run inside this repository (`fairseq-upload`).
 
 ## Environment
 
